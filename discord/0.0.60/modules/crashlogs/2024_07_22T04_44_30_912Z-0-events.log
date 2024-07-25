@@ -1,0 +1,14 @@
+2024-07-22T04:44:30.917Z 0: 
+
+----------------------------------------------
+2024-07-22T04:44:30.932Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.60"}, modulepath: /home/maxp/.config/discord/0.0.60/modules
+2024-07-22T04:44:30.941Z 2: ✅ webContents.created web1 ""
+2024-07-22T04:44:30.956Z 3: ✅ window.created win1 "discord"
+2024-07-22T04:44:31.195Z 4: ✅ webContents.did-finish-load web1
+2024-07-22T04:44:36.382Z 5: ✅ webContents.created web2 ""
+2024-07-22T04:44:36.404Z 6: ✅ window.created win2 "Discord"
+2024-07-22T04:44:38.258Z 7: ✅ webContents.did-finish-load web2
+2024-07-22T04:44:38.355Z 8: window.close win1
+2024-07-22T04:44:38.392Z 9: webContents.destroyed web1
+2024-07-22T04:44:38.399Z 10: window.closed win1
+2024-07-22T04:57:04.117Z 11: before-quit
