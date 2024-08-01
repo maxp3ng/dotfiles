@@ -76,7 +76,7 @@ unfocused_hollow = false
 thickness = 0.15
 
 [cursor.style]
-shape = "Block"
+shape = "Beam"
 blinking = "On"
 
 ## MOUSE ----------------------------------------------------------
